@@ -1,3 +1,6 @@
 [submodule "test"]
 	path = test
 	url = git@github.com:tqbf/test.git
+[submodule "hello"]
+	path = hello
+	url = https://github.com/kelseyhightower/helloworld.git
